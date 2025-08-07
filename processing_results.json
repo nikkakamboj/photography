@@ -1,0 +1,278 @@
+[
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://v3.fal.media/files/zebra/GvpncHwghCKIuxQ07c2XB_image.png",
+    "ideogram_prompt": true,
+    "output_path": "result/0/ideogram/",
+    "saved_files": [
+      "result/0/ideogram/0.jpg",
+      "result/0/ideogram/1.jpg",
+      "result/0/ideogram/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:39:05.928133"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://static-cb2.phot.ai/bg_replacer/2025-08-06/RISHABH_AI_BANNERS_2bec20789-ff13-4633-bbc4-30d91a8f4a50_636103_0.webp",
+    "ideogram_prompt": false,
+    "output_path": "result/0/original/",
+    "saved_files": [
+      "result/0/original/0.jpg",
+      "result/0/original/1.jpg",
+      "result/0/original/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:39:55.574857"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://v3.fal.media/files/zebra/SpHZHx3j3st0TOTYZp_Dh_image.png",
+    "ideogram_prompt": true,
+    "output_path": "result/1/ideogram/",
+    "saved_files": [
+      "result/1/ideogram/0.jpg",
+      "result/1/ideogram/1.jpg",
+      "result/1/ideogram/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:40:50.937615"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://v3.fal.media/files/elephant/APg94hZp1W6tMqwBwyoCF_image.png",
+    "ideogram_prompt": true,
+    "output_path": "result/2/ideogram/",
+    "saved_files": [
+      "result/2/ideogram/0.jpg",
+      "result/2/ideogram/1.jpg",
+      "result/2/ideogram/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:42:16.155601"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://static-cb2.phot.ai/bg_replacer/2025-08-06/RISHABH_AI_BANNERS_2d37d6137-1044-4966-969c-8469ca5995d3_900239_0.webp",
+    "ideogram_prompt": false,
+    "output_path": "result/2/original/",
+    "saved_files": [
+      "result/2/original/0.jpg",
+      "result/2/original/1.jpg",
+      "result/2/original/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:42:43.700581"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://v3.fal.media/files/lion/pKN5dxpPDz-Op_D3h8ffE_image.png",
+    "ideogram_prompt": true,
+    "output_path": "result/3/ideogram/",
+    "saved_files": [
+      "result/3/ideogram/0.jpg",
+      "result/3/ideogram/1.jpg",
+      "result/3/ideogram/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:43:30.327937"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://static-cb2.phot.ai/bg_replacer/2025-08-06/RISHABH_AI_BANNERS_2c3c06874-b66a-4144-9e74-8ce368cf3504_68940_0.webp",
+    "ideogram_prompt": false,
+    "output_path": "result/3/original/",
+    "saved_files": [
+      "result/3/original/0.jpg",
+      "result/3/original/1.jpg",
+      "result/3/original/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:44:05.429607"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://v3.fal.media/files/monkey/oVzHpU1UtAouz-slFm7k3_image.png",
+    "ideogram_prompt": true,
+    "output_path": "result/4/ideogram/",
+    "saved_files": [
+      "result/4/ideogram/0.jpg",
+      "result/4/ideogram/1.jpg",
+      "result/4/ideogram/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:45:16.840062"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://static-cb2.phot.ai/bg_replacer/2025-08-06/RISHABH_AI_BANNERS_27b52030c-bbfa-497f-beca-31e1eb5a7e73_966876_0.webp",
+    "ideogram_prompt": false,
+    "output_path": "result/4/original/",
+    "saved_files": [
+      "result/4/original/0.jpg",
+      "result/4/original/1.jpg",
+      "result/4/original/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:45:52.024512"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://v3.fal.media/files/rabbit/4EDrlpo0-x0yhzLPUZR9j_image.png",
+    "ideogram_prompt": true,
+    "output_path": "result/5/ideogram/",
+    "saved_files": [
+      "result/5/ideogram/0.jpg",
+      "result/5/ideogram/1.jpg",
+      "result/5/ideogram/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:46:35.411144"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://static-cb2.phot.ai/bg_replacer/2025-08-06/RISHABH_AI_BANNERS_26644283c-d951-460c-939f-a6657ded036b_605903_0.webp",
+    "ideogram_prompt": false,
+    "output_path": "result/5/original/",
+    "saved_files": [
+      "result/5/original/0.jpg",
+      "result/5/original/1.jpg",
+      "result/5/original/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:47:06.895511"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://v3.fal.media/files/lion/tHIu9trWilywgzL2kHss1_image.png",
+    "ideogram_prompt": true,
+    "output_path": "result/6/ideogram/",
+    "saved_files": [
+      "result/6/ideogram/0.jpg",
+      "result/6/ideogram/1.jpg",
+      "result/6/ideogram/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:47:53.256803"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://static-cb2.phot.ai/bg_replacer/2025-08-06/RISHABH_AI_BANNERS_2621b9231-ff9b-48bf-b00f-1c1d8c2d7cdd_985937_0.webp",
+    "ideogram_prompt": false,
+    "output_path": "result/6/original/",
+    "saved_files": [
+      "result/6/original/0.jpg",
+      "result/6/original/1.jpg",
+      "result/6/original/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:48:25.171976"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://v3.fal.media/files/lion/zNermfk18_zSCteoB6zhe_image.png",
+    "ideogram_prompt": true,
+    "output_path": "result/7/ideogram/",
+    "saved_files": [
+      "result/7/ideogram/0.jpg",
+      "result/7/ideogram/1.jpg",
+      "result/7/ideogram/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:49:10.800391"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://static-cb2.phot.ai/bg_replacer/2025-08-06/RISHABH_AI_BANNERS_2436cde24-bc1a-4cac-a285-2f403ddd34ee_503168_0.webp",
+    "ideogram_prompt": false,
+    "output_path": "result/7/original/",
+    "saved_files": [
+      "result/7/original/0.jpg",
+      "result/7/original/1.jpg",
+      "result/7/original/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:49:50.745934"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://v3.fal.media/files/lion/Lrw3i73_kT44BybmNg9EL_image.png",
+    "ideogram_prompt": true,
+    "output_path": "result/8/ideogram/",
+    "saved_files": [
+      "result/8/ideogram/0.jpg",
+      "result/8/ideogram/1.jpg",
+      "result/8/ideogram/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:50:47.107423"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://static-cb2.phot.ai/bg_replacer/2025-08-06/RISHABH_AI_BANNERS_28de54ebc-39d7-47e5-a6e6-bcdfd89d3d55_109251_0.webp",
+    "ideogram_prompt": false,
+    "output_path": "result/8/original/",
+    "saved_files": [
+      "result/8/original/0.jpg",
+      "result/8/original/1.jpg",
+      "result/8/original/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:51:29.584766"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://v3.fal.media/files/tiger/nIgTanGn2PWd3-_sV6yZS_image.png",
+    "ideogram_prompt": true,
+    "output_path": "result/9/ideogram/",
+    "saved_files": [
+      "result/9/ideogram/0.jpg",
+      "result/9/ideogram/1.jpg",
+      "result/9/ideogram/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:52:16.053597"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://static-cb2.phot.ai/bg_replacer/2025-08-06/RISHABH_AI_BANNERS_272f14632-3c7b-4946-8786-12ef814c8e19_78349_0.webp",
+    "ideogram_prompt": false,
+    "output_path": "result/9/original/",
+    "saved_files": [
+      "result/9/original/0.jpg",
+      "result/9/original/1.jpg",
+      "result/9/original/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:52:48.755753"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://v3.fal.media/files/zebra/KfHVD-MGgN2QU0s1-kLNL_image.png",
+    "ideogram_prompt": true,
+    "output_path": "result/10/ideogram/",
+    "saved_files": [
+      "result/10/ideogram/0.jpg",
+      "result/10/ideogram/1.jpg",
+      "result/10/ideogram/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:53:44.356574"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://static-cb2.phot.ai/bg_replacer/2025-08-06/RISHABH_AI_BANNERS_2145a55ac-664b-48dd-bc91-1e2f9e0d8b57_906534_0.webp",
+    "ideogram_prompt": false,
+    "output_path": "result/10/original/",
+    "saved_files": [
+      "result/10/original/0.jpg",
+      "result/10/original/1.jpg",
+      "result/10/original/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:54:21.808702"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://v3.fal.media/files/monkey/VFx_clnQd7HcJlVT9EiIA_image.png",
+    "ideogram_prompt": true,
+    "output_path": "result/11/ideogram/",
+    "saved_files": [
+      "result/11/ideogram/0.jpg",
+      "result/11/ideogram/1.jpg",
+      "result/11/ideogram/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:55:07.757863"
+  },
+  {
+    "prompt": "Have a fancy focussed display with a detailed real life background environment highlighting the product. Decide the best minimalistic background for the product based on the product image.",
+    "source_image_url": "https://static-cb2.phot.ai/bg_replacer/2025-08-06/RISHABH_AI_BANNERS_234373869-8423-4eb1-ae20-469b33d835cc_334786_0.webp",
+    "ideogram_prompt": false,
+    "output_path": "result/11/original/",
+    "saved_files": [
+      "result/11/original/0.jpg",
+      "result/11/original/1.jpg",
+      "result/11/original/2.jpg"
+    ],
+    "timestamp": "2025-08-06T13:55:36.410194"
+  }
+]
